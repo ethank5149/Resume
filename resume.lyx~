@@ -178,6 +178,10 @@ height "1pt"
 
 \family default
 \series bold
+ 
+\begin_inset Formula $\quad$
+\end_inset
+
 Purdue University
 \begin_inset space \hfill{}
 \end_inset
@@ -189,6 +193,16 @@ West Lafayette, Indiana
 \noindent
 \align block
 
+\series bold
+\begin_inset Formula $\quad$
+\end_inset
+
+
+\begin_inset Formula $\quad$
+\end_inset
+
+
+\series default
 \size small
 B.S.
  in Physics, GPA: 3.50/4.00
@@ -202,6 +216,16 @@ Spring 2021
 \noindent
 \align block
 
+\series bold
+\begin_inset Formula $\quad$
+\end_inset
+
+
+\begin_inset Formula $\quad$
+\end_inset
+
+
+\series default
 \size small
 B.S.
  in Mathematics, GPA: 3.50/4.00
@@ -288,7 +312,7 @@ Python
 \begin_inset space \hfill{}
 \end_inset
 
-
+Level
 \end_layout
 
 \begin_layout Standard
@@ -298,7 +322,7 @@ C/C++
 \begin_inset space \hfill{}
 \end_inset
 
-
+Level
 \end_layout
 
 \begin_layout Standard
@@ -308,7 +332,7 @@ Mathematica
 \begin_inset space \hfill{}
 \end_inset
 
-
+Level
 \end_layout
 
 \begin_layout Standard
@@ -318,7 +342,7 @@ Maple
 \begin_inset space \hfill{}
 \end_inset
 
-
+Level
 \end_layout
 
 \begin_layout Standard
@@ -328,7 +352,17 @@ Matlab
 \begin_inset space \hfill{}
 \end_inset
 
+Level
+\end_layout
 
+\begin_layout Standard
+\noindent
+\align block
+Julia
+\begin_inset space \hfill{}
+\end_inset
+
+Level
 \end_layout
 
 \begin_layout Section
@@ -402,35 +436,158 @@ height "1pt"
 
 \begin_layout Standard
 \noindent
-
+The T.
+ G.
+ Alford Scholarship
 \family roman
-Purdue University
+
 \begin_inset space \hfill{}
 \end_inset
 
-West Lafayette, Indiana
+Year 1
 \end_layout
 
 \begin_layout Standard
 \noindent
 \align block
-B.S.
- in Physics, GPA: 3.50/4.00
 \begin_inset space \hfill{}
 \end_inset
 
-Spring 2021
+Year 2
 \end_layout
 
 \begin_layout Standard
 \noindent
 \align block
-B.S.
- in Mathematics, GPA: 3.50/4.00
+David R Lebeson Memorial Scholarship
+\family roman
+
 \begin_inset space \hfill{}
 \end_inset
 
-Spring 2021
+Year 1
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+\begin_inset space \hfill{}
+\end_inset
+
+Year 2
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+Future Alumni Scholarship
+\begin_inset space \hfill{}
+\end_inset
+
+Year 1
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+Purdue General Scholarship - Res 
+\begin_inset space \hfill{}
+\end_inset
+
+Year 1
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+Provost Summer Scholarship-SFA
+\begin_inset space \hfill{}
+\end_inset
+
+Year 1
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+\begin_inset space \hfill{}
+\end_inset
+
+Year 2
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+\begin_inset space \hfill{}
+\end_inset
+
+Year 3
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+Dean's List
+\begin_inset space \hfill{}
+\end_inset
+
+Year 1
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+\begin_inset space \hfill{}
+\end_inset
+
+Year 2
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+Semester Honors
+\begin_inset space \hfill{}
+\end_inset
+
+Year 1
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+\begin_inset space \hfill{}
+\end_inset
+
+Year 2
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+\begin_inset space \hfill{}
+\end_inset
+
+Year 3
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+\begin_inset space \hfill{}
+\end_inset
+
+Year 4
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+\begin_inset space \hfill{}
+\end_inset
+
+Year 6
 \end_layout
 
 \begin_layout Section
@@ -455,33 +612,21 @@ height "1pt"
 \noindent
 
 \family roman
-Purdue University
+Purdue University Brazilian Jiu-Jitsu Club
 \begin_inset space \hfill{}
 \end_inset
 
-West Lafayette, Indiana
+Years
 \end_layout
 
 \begin_layout Standard
 \noindent
 \align block
-B.S.
- in Physics, GPA: 3.50/4.00
+Asgard Combat Sports - Brazialian Jiu-Jitsu
 \begin_inset space \hfill{}
 \end_inset
 
-Spring 2021
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align block
-B.S.
- in Mathematics, GPA: 3.50/4.00
-\begin_inset space \hfill{}
-\end_inset
-
-Spring 2021
+Years
 \end_layout
 
 \end_body
