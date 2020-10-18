@@ -109,7 +109,10 @@
 \family roman
 \series bold
 \size largest
-Ethan Knox
+\begin_inset Formula $\boldsymbol{\Sigma}$
+\end_inset
+
+than Knox
 \end_layout
 
 \begin_layout Right Header
@@ -118,30 +121,14 @@ Ethan Knox
 
 \family roman
 \series bold
-Website:
+GitHub:
 \series default
- example.com
+ github.com/ethank5149
+\series bold
+
 \begin_inset Newline newline
 \end_inset
 
-
-\series bold
-Email:
-\series default
- ethank5149@gmail.com
-\begin_inset Newline newline
-\end_inset
-
-
-\series bold
-Email:
-\series default
- knoxe@purdue.edu
-\begin_inset Newline newline
-\end_inset
-
-
-\series bold
 LinkdIn:
 \series default
  Ethan-Knox
@@ -150,23 +137,34 @@ LinkdIn:
 
 
 \series bold
-GitHub:
+Email (School):
 \series default
- github.com/ethank5149
+ knoxe@purdue.edu
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+Email (Personal):
+\series default
+ ethank5149@gmail.com
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 \paragraph_spacing single
 \noindent
 
-\family roman
+\series bold
+\size larger
 Education
 \end_layout
 
 \begin_layout Standard
 \noindent
-
-\family roman
 \begin_inset CommandInset line
 LatexCommand rule
 offset "0.5ex"
@@ -176,10 +174,9 @@ height "1pt"
 \end_inset
 
 
-\family default
 \series bold
-Purdue University
-\begin_inset space \hfill{}
+ Purdue University
+\begin_inset space \dotfill{}
 \end_inset
 
 West Lafayette, Indiana
@@ -189,12 +186,21 @@ West Lafayette, Indiana
 \noindent
 \align block
 
+\series bold
+- 
+\series default
 \size small
 B.S.
  in Physics, GPA: 3.50/4.00
-\begin_inset space \hfill{}
+\series bold
+\size default
+
+\begin_inset space \dotfill{}
 \end_inset
 
+
+\series default
+\size small
 Spring 2021
 \end_layout
 
@@ -202,17 +208,33 @@ Spring 2021
 \noindent
 \align block
 
+\series bold
+- 
+\series default
 \size small
 B.S.
  in Mathematics, GPA: 3.50/4.00
-\begin_inset space \hfill{}
+\series bold
+\size default
+
+\begin_inset space \dotfill{}
 \end_inset
 
+
+\series default
+\size small
 Spring 2021
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
-\begin_layout Section
+\begin_layout Standard
 \noindent
+
+\series bold
+\size larger
 Skills
 \end_layout
 
@@ -231,39 +253,50 @@ height "1pt"
 
 \begin_layout Standard
 \noindent
+- Typing Up Assignments/Projects In TeX/LaTeX
+\series bold
 
-\family roman
-Purdue University
 \begin_inset space \hfill{}
 \end_inset
 
-West Lafayette, Indiana
+
 \end_layout
 
 \begin_layout Standard
 \noindent
 \align block
-B.S.
- in Physics, GPA: 3.50/4.00
+- Using Anaconda Python Environments
+\series bold
+
 \begin_inset space \hfill{}
 \end_inset
 
-Spring 2021
+
 \end_layout
 
 \begin_layout Standard
 \noindent
 \align block
-B.S.
- in Mathematics, GPA: 3.50/4.00
+- Adoring Jupyter Notebooks
+\series bold
+
 \begin_inset space \hfill{}
 \end_inset
 
-Spring 2021
+
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
-\begin_layout Section
+\begin_layout Standard
 \noindent
+
+\series bold
+\size larger
 Languages
 \end_layout
 
@@ -282,10 +315,54 @@ height "1pt"
 
 \begin_layout Standard
 \noindent
+- Python
+\begin_inset space \dotfill{}
+\end_inset
 
-\family roman
-Python
-\begin_inset space \hfill{}
+Proficient
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+- C/C++
+\begin_inset space \dotfill{}
+\end_inset
+
+Familiar With
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+- Mathematica
+\begin_inset space \dotfill{}
+\end_inset
+
+Some Experience
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+- Maple
+\begin_inset space \dotfill{}
+\end_inset
+
+Some Experience
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+- Matlab
+\begin_inset space \dotfill{}
+\end_inset
+
+Dabbled In
+\series bold
+
+\begin_inset Newline newline
 \end_inset
 
 
@@ -293,46 +370,9 @@ Python
 
 \begin_layout Standard
 \noindent
-\align block
-C/C++
-\begin_inset space \hfill{}
-\end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align block
-Mathematica
-\begin_inset space \hfill{}
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align block
-Maple
-\begin_inset space \hfill{}
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align block
-Matlab
-\begin_inset space \hfill{}
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-\noindent
+\series bold
+\size larger
 Projects
 \end_layout
 
@@ -351,40 +391,40 @@ height "1pt"
 
 \begin_layout Standard
 \noindent
+- Various Computational Physics/Mathematics Projects
+\series bold
 
-\family roman
-Purdue University
-\begin_inset space \hfill{}
+\begin_inset space \dotfill{}
 \end_inset
 
-West Lafayette, Indiana
+
+\series default
+ On Github: See Above
 \end_layout
 
 \begin_layout Standard
 \noindent
 \align block
-B.S.
- in Physics, GPA: 3.50/4.00
+
+\series bold
 \begin_inset space \hfill{}
 \end_inset
 
-Spring 2021
+
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 \noindent
-\align block
-B.S.
- in Mathematics, GPA: 3.50/4.00
-\begin_inset space \hfill{}
-\end_inset
 
-Spring 2021
-\end_layout
-
-\begin_layout Section
-\noindent
-Scholarships and Awards
+\series bold
+\size larger
+Awards and Scholarships
 \end_layout
 
 \begin_layout Standard
@@ -403,38 +443,150 @@ height "1pt"
 \begin_layout Standard
 \noindent
 
-\family roman
-Purdue University
-\begin_inset space \hfill{}
+\series bold
+Awards:
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+- 
+\series default
+Eagle Scout | Troop 92, Indianapolis, Indiana
+\series bold
+
+\begin_inset space \dotfill{}
 \end_inset
 
-West Lafayette, Indiana
+
+\series default
+August, '16
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+- 
+\series default
+Dean's List
+\series bold
+
+\begin_inset space \dotfill{}
+\end_inset
+
+
+\series default
+Fall '17, Spring '20
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+- 
+\series default
+Semester Honors
+\series bold
+
+\begin_inset space \dotfill{}
+\end_inset
+
+
+\series default
+Fall '17 - '19, Spring '19 - '20
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Scholarships:
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+- 
+\series default
+The T.
+ G.
+ Alford Scholarship
+\series bold
+
+\begin_inset space \dotfill{}
+\end_inset
+
+
+\series default
+2018, 2020
 \end_layout
 
 \begin_layout Standard
 \noindent
 \align block
-B.S.
- in Physics, GPA: 3.50/4.00
-\begin_inset space \hfill{}
+
+\series bold
+- 
+\series default
+David R Lebeson Memorial Scholarship
+\series bold
+
+\begin_inset space \dotfill{}
 \end_inset
 
-Spring 2021
+
+\series default
+2019 - 2020
 \end_layout
 
 \begin_layout Standard
 \noindent
 \align block
-B.S.
- in Mathematics, GPA: 3.50/4.00
-\begin_inset space \hfill{}
+
+\series bold
+- 
+\series default
+Future Alumni Scholarship
+\series bold
+
+\begin_inset space \dotfill{}
 \end_inset
 
-Spring 2021
+
+\series default
+2019
 \end_layout
 
-\begin_layout Section
+\begin_layout Standard
 \noindent
+\align block
+
+\series bold
+- 
+\series default
+Provost Summer Scholarship
+\series bold
+
+\begin_inset space \dotfill{}
+\end_inset
+
+
+\series default
+2017 - 2019
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+\size larger
 Extracurricular Activities
 \end_layout
 
@@ -453,35 +605,57 @@ height "1pt"
 
 \begin_layout Standard
 \noindent
+- Brazilian Jiu-Jitsu
+\series bold
 
-\family roman
-Purdue University
-\begin_inset space \hfill{}
+\begin_inset space \dotfill{}
 \end_inset
 
-West Lafayette, Indiana
+
+\series default
+2017 - Current
 \end_layout
 
 \begin_layout Standard
 \noindent
 \align block
-B.S.
- in Physics, GPA: 3.50/4.00
-\begin_inset space \hfill{}
+- Electric/Acoustic Guitar (Hobby)
+\series bold
+
+\begin_inset space \dotfill{}
 \end_inset
 
-Spring 2021
+
+\series default
+2018 - Current
 \end_layout
 
 \begin_layout Standard
 \noindent
 \align block
-B.S.
- in Mathematics, GPA: 3.50/4.00
-\begin_inset space \hfill{}
+- Purdue Habitat For Humanity
+\series bold
+
+\begin_inset space \dotfill{}
 \end_inset
 
-Spring 2021
+
+\series default
+2018 - 2019
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+- Purdue Astronomy Club
+\series bold
+
+\begin_inset space \dotfill{}
+\end_inset
+
+
+\series default
+2017 - 2019
 \end_layout
 
 \end_body
