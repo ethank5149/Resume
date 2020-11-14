@@ -109,10 +109,23 @@
 \family roman
 \series bold
 \size largest
-\begin_inset Formula $\boldsymbol{\Sigma}$
+Ethan Knox
+\begin_inset Newline newline
 \end_inset
 
-than Knox
+
+\series default
+\size default
+108 South River Rd.
+\begin_inset Newline newline
+\end_inset
+
+W.
+ Lafayette, IN 47906
+\begin_inset Newline newline
+\end_inset
+
+Mobile: (317) 989-5525
 \end_layout
 
 \begin_layout Right Header
@@ -148,10 +161,6 @@ Email (School):
 Email (Personal):
 \series default
  ethank5149@gmail.com
-\begin_inset Newline newline
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -228,11 +237,6 @@ Spring 2021
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-\noindent
-
 \series bold
 \size larger
 Skills
@@ -290,14 +294,9 @@ height "1pt"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-\noindent
-
 \series bold
 \size larger
-Languages
+Programming Languages/Software
 \end_layout
 
 \begin_layout Standard
@@ -360,16 +359,29 @@ Some Experience
 \end_inset
 
 Dabbled In
-\series bold
-
-\begin_inset Newline newline
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
 \noindent
+\align block
+- SimFlow
+\begin_inset space \dotfill{}
+\end_inset
+
+Dabbled In
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+- OpenFOAM
+\begin_inset space \dotfill{}
+\end_inset
+
+Dabbled In
+\begin_inset Newline newline
+\end_inset
+
 
 \series bold
 \size larger
@@ -391,7 +403,19 @@ height "1pt"
 
 \begin_layout Standard
 \noindent
-- Various Computational Physics/Mathematics Projects
+
+\series bold
+Various Computational Physics/Mathematics Projects:
+\begin_inset space \dotfill{}
+\end_inset
+
+On Github: See Header
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+- Differential Equation Modelling
 \series bold
 
 \begin_inset space \dotfill{}
@@ -399,28 +423,94 @@ height "1pt"
 
 
 \series default
- On Github: See Above
+(Upcoming)
 \end_layout
 
 \begin_layout Standard
 \noindent
 \align block
-
+- Visual Ising Model Simulation (multiple solution methods and geometries)
 \series bold
-\begin_inset space \hfill{}
+
+\begin_inset space \dotfill{}
 \end_inset
 
 
 \series default
-
-\begin_inset Newline newline
-\end_inset
-
-
+(Maintaining)
 \end_layout
 
 \begin_layout Standard
 \noindent
+\align block
+- Physical Ising Model Simulation
+\series bold
+
+\begin_inset space \dotfill{}
+\end_inset
+
+
+\series default
+(Ongoing)
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+- Classical Mechanics Modelling
+\series bold
+
+\begin_inset space \dotfill{}
+\end_inset
+
+
+\series default
+(Ongoing)
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+- Quantum Mechanics Modelling
+\series bold
+
+\begin_inset space \dotfill{}
+\end_inset
+
+
+\series default
+(Ongoing)
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+- Numerical Root-Finding
+\series bold
+
+\begin_inset space \dotfill{}
+\end_inset
+
+
+\series default
+(Ongoing)
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+- PHYS 58000 (Computational Physics) Coursework
+\series bold
+
+\begin_inset space \dotfill{}
+\end_inset
+
+
+\series default
+(Ongoing)
+\begin_inset Newline newline
+\end_inset
+
 
 \series bold
 \size larger
@@ -580,11 +670,6 @@ Provost Summer Scholarship
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-\noindent
-
 \series bold
 \size larger
 Extracurricular Activities
@@ -619,20 +704,6 @@ height "1pt"
 \begin_layout Standard
 \noindent
 \align block
-- Electric/Acoustic Guitar (Hobby)
-\series bold
-
-\begin_inset space \dotfill{}
-\end_inset
-
-
-\series default
-2018 - Current
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align block
 - Purdue Habitat For Humanity
 \series bold
 
@@ -656,6 +727,20 @@ height "1pt"
 
 \series default
 2017 - 2019
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align block
+- Electric/Acoustic Guitar (Hobby)
+\series bold
+
+\begin_inset space \dotfill{}
+\end_inset
+
+
+\series default
+2018 - Current
 \end_layout
 
 \end_body
