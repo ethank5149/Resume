@@ -1,0 +1,162 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass simplecv
+\begin_preamble
+%% You can modify the fonts used in the document be using the
+%% following macros. They take one parameter which is the font
+%% changing command.
+%% \headerfont: the font used in both headers.
+%%              Defaults to sans serif.
+%% \titlefont:  the font used for the title.
+%%              Defaults to \LARGE sans-serif semi bold condensed.
+%% \sectionfont: the font used by \section when beginning a new topic.
+%%              Defaults to sans-serif semi bold condensed.
+%% \itemfont:   the font used in descriptions of items.
+%%              Defaults to sans-serif slanted.
+% to make your name even bigger, uncomment the following line:
+% \titlefont{\Huge}
+%%
+%% You can modify the following parameters using \renewcommand:
+%% \topicmargin: the left margin inside topics.
+%%               Defaults to 20% of the column width (0.20\columnwidth).
+% To get more room for left column of Topic layouts, uncomment following line:
+% \renewcommand{\topicmargin}{0.3\columnwidth}
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding default
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 0
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0.5in
+\topmargin 0.5in
+\rightmargin 0.5in
+\bottommargin 0.5in
+\secnumdepth 0
+\tocdepth 0
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Statement Of Purpose - Ethan Knox
+\end_layout
+
+\begin_layout Standard
+As with all true origin stories, mine begins with my mother.
+ She raised me on her own while also running a successful business - needless
+ to say, I spent a lot of time on my own or taking care of my sister.
+ Unfortunately, only two months after I turned 18, my mother took her own
+ life, and I have been entirely on my own ever since.
+ Despite this difficult background, one thing has always kept me going and
+ helped me connect to others: learning.
+ In fact, my mother used to brag that when I was in second grade, I acquired
+ the nickname "Dr.
+ Knox" from my teachers, in reference to my tendency to ask complicated
+ questions and dissect their explanations.
+ Ever since then, I have vowed to make that nickname a reality.
+ For me, graduate school is the next step in fulfilling my lifelong love
+ of learning and understanding more about the world around us.
+ In a way, my undergraduate studies have made me even more determined to
+ take this step, now that I have seen just how much I do not know.
+\end_layout
+
+\begin_layout Standard
+Throughout my time here at Purdue, I have grown fond of the many added developme
+nts and projects here on campus.
+ There are always new and exciting things happening in the coming few years,
+ and I would love to be able to experience them firsthand.
+ I honestly feel as though I have a vested interest in the community here,
+ and I would love to continue my academic studies in the place I have come
+ to adore so much.
+ Academically, I enjoy analyzing complex/real-world systems with mathematical
+ physics models, and the computational modelling, simulation, experimentation,
+ and visualization of these systems.
+\end_layout
+
+\begin_layout Standard
+After graduate school, I want to pursue computational physics, likely in
+ the private sector.
+ I love taking immensely complex problems, describing them symbolically
+ and/or programmatically, and utilizing computational/numerical methods
+ to solve them to arbitrary precision.
+ I also do just enjoy the cool simulations and software, but the former
+ sounds better on paper.
+ Should the private sector not work out, I would definitely consider a governmen
+tal or public job with the same duties, provided that there is at least
+ a little variety in the types of work I would receive.
+\end_layout
+
+\begin_layout Standard
+While there are many exceptional physics graduate programs around the country,
+ I believe that given my connection to the Purdue community and existing
+ history of studies here, there is no other place I would rather pursue
+ my doctorate than Purdue University.
+\end_layout
+
+\end_body
+\end_document
